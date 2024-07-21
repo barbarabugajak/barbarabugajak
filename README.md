@@ -1,7 +1,7 @@
 ## Hello there 👋
 - 🌱 I’m currently learning Django
 - 🔭 I'm currently working on my web development skills
-- 😄 Pronouns: she/her/herself
+- 😄 Pronouns: she/her
 <!--
 **bb-EDU/bb-EDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
