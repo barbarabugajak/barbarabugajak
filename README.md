@@ -1,7 +1,8 @@
 ## Hello there 👋
-- 🌱 I’m currently learning Django and Vanilla JS
-- 🔭 I'm working on my web development skills
+- 🌱 I’m currently learning Django, JS and Phaser
+- 🔭 I'm working on my game development and web development skills.
 - 😄 Pronouns: she/her
+- ⚡ In the future I want to be a game dev - but I love web dev too!
 <!--
 **bb-EDU/bb-EDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
