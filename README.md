@@ -1,5 +1,5 @@
 ## Hello there 👋
-- 🌱 I’m currently learning Django, JS and Phaser
+- 🌱 I’m currently learning Django, NumPy and C#
 - 🔭 I'm working on my game development and web development skills.
 - 😄 Pronouns: she/her
 - ⚡ In the future I want to be a game dev - but I love web dev too!
