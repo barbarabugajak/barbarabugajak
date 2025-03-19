@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Unreal Engine 5.
 - 🔭 I'm working on developing my game and web development skills.
 - 🎮 Girls in the Game (pol. Dziewczyny w Grze) - 4th edition fellow.
-- 👩🏻‍💻 I’m currently working on my first fully self-written Unreal Engine C++ game.
+- 👩🏻‍💻 I’m currently working on a Unreal Engine C++-based game.
 - 😄 Pronouns: she/her.
 - ⚡ In the future, I want to be a game developer, but I also love web dev!
 - 😂 Joke: Why do programmers prefer dark mode? Because light attracts bugs!
