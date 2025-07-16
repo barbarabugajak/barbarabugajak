@@ -1,8 +1,8 @@
 ## Hello there 👋
-- 🌱 I’m currently learning Unreal Engine 5.
+- 🌱 I’m currently learning Unity, as well as improving my skills in Unreal Engine 5.
 - 🎮 Girls in the Game (pol. Dziewczyny w Grze) - 4th edition fellow.
-- 👩🏻‍💻 I’m currently working on a Unreal Engine C++-based game.
-- 😄 Pronouns: she/her.
+- 👩🏻‍💻 I’m currently working on a group project with my fellow mentees from Girls in the Game!
+- 😄 Pronouns: she/her
 - ⚡ In the future, I want to be a game developer, but I also love web dev!
 - 😂 Joke: Why do programmers prefer dark mode? Because light attracts bugs!
 - 📫 LinkedIn: https://www.linkedin.com/in/barbara-bugajak-a99652352/
