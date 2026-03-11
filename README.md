@@ -1,8 +1,13 @@
-## Hello there 👋
-- 🌱 I’m currently learning SDL, as well as improving my skills in Unreal Engine 5.
-- 🎮 Girls in the Game (pol. Dziewczyny w Grze) - 4th edition fellow.
-- 👩🏻‍💻 I’m currently working on my Unreal Engine skills
-- 😄 Pronouns: she/her
-- ⚡ In the future, I want to be a gamplay programmer, but I also love web dev!
-- 😂 Joke: Why do programmers prefer dark mode? Because light attracts bugs!
-- 📫 LinkedIn: https://www.linkedin.com/in/barbara-bugajak-a99652352/
+## Hello there! 👋
+
+### 🌱 Currently Learning
+- Improving my **Unreal Engine 5** development skills  
+- Learning the programming side of **Wwise** integration with **Unreal Engine**
+### 😄 About Me
+- 👩‍💻 Pronouns: **she/her**
+- 🎮 Alumna of the **4th edition of Girls in the Game** – a program supporting aspiring women in gamedev, created by **Perspektywy Women in Tech** and **CD Projekt Red**
+- 🎯 My biggest dream is to work as a **game programmer**, and I'm working hard every day to make it happen.
+
+### 😂 Programmer Joke
+> **Why do programmers prefer dark mode?**  
+> Because light attracts bugs! 🐛
